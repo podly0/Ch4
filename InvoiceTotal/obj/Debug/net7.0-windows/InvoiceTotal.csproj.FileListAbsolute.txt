@@ -1,0 +1,16 @@
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.exe
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.deps.json
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.runtimeconfig.json
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.dll
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfoInputs.cache
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfo.cs
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.dll
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\refint\InvoiceTotal.dll
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.genruntimeconfig.cache
+C:\Users\tPalen1s\Documents\C#\BookApps\ch04\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\ref\InvoiceTotal.dll
